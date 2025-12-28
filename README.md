@@ -14,7 +14,7 @@ Este projeto foi desenvolvido para demonstrar competências em **Engenharia de D
 * **Extração:** Captura de dados estruturados de arquivos PDF.
 * **Validação:** Garantia da integridade dos dados capturados.
 * **Persistência:** Armazenamento em JSON para consumo posterior.
-* **Análise:** Geração de insights estratégicos com métricas de vendas.
+* **Análise:** Geração de insights estratégicos com métricas de vendas
 
 ## 🛠️ Tecnologias Utilizadas
 <ul>
